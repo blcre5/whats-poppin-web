@@ -1,6 +1,6 @@
-# Do2Nite
+# whats-poppin-web
 
-A Next.js app for discovering local events.
+Do2Nite is a lightweight Next.js app for discovering local events, built for Adrian.
 
 ## Requirements
 
